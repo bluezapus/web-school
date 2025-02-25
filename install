@@ -1,0 +1,9 @@
+npm init -y
+
+INSTALL TAILWINDS
+src/css/input.css
+
+run TAILWINDS
+npm run tailwind
+
+npm run watch
